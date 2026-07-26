@@ -1,5 +1,6 @@
 library(tidyverse)
 library(readxl)
+library(ggplot)
 
 #english data
 en_priming <- read_csv("en_answered_prime_summary_no2.5.csv")
